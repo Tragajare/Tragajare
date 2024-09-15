@@ -1,2 +1,2 @@
-## Programas desenvolvidos individuais e em grupo em linguagem C e Java.
+## Programas desenvolvidos individuais em grupo utilizando linguagem C e Java.
 
