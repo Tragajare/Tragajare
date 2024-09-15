@@ -1,2 +1,2 @@
-## Programas iniciais da minha introdução à linguagem C.
+## Programas desenvolvidos individuais e em grupo em linguagem C e Java.
 
